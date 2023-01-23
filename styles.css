@@ -8,7 +8,10 @@ body {
   font-family: 'Roboto', sans-serif;
   height: 100vh;
   display: flex;
+  flex-wrap: wrap;
 }
+
+
 
 .col {
   flex: 1;
